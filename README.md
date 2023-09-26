@@ -51,4 +51,7 @@ python main.py
 ## Реузльтат
 ![](Figure_1.png)
 
+## LICENSE
+MIT
+
 
