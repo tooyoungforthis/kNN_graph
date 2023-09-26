@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 Запустим приложение
 ```bash
-python knn.py
+python main.py
 ```
 
 ## Рассуждения:
