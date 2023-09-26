@@ -6,9 +6,34 @@
 При взаимодействии с юзером использовать правильную терминологию
 
 ## Запуск программы:
-
+Клонируем репозиторий:
 ```bash
-fcxzfzx
+git clone https://github.com/tooyoungforthis/kNN_graph
+```
+
+Откроем папку с репозиторием
+```bash
+cd kNN_graph
+```
+
+Создадим виртуальное окружение
+```bash
+python -m venv venv
+```
+
+Активируем виртуальное окружение
+```bash
+.\venv\Scripts\activate
+```
+
+Установим необходимые зависимости
+```bash
+pip install -r requirements.txt
+```
+
+Запустим приложение
+```bash
+python knn.py
 ```
 
 ## Рассуждения:
